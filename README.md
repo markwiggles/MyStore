@@ -1,4 +1,5 @@
-# Example: add <i>Spree</i> to existing Rails App
+# MyStore
+<h2>Example: adding <i>Spree</i> to existing Rails Application
 
 <h4>Contents</h4>
 
