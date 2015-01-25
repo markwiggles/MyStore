@@ -79,6 +79,7 @@ Spree also uses the <i>font-awesome</i> gem which can be helpful in your markup.
 ```
 <h3>Create New Product</h3>
 Navigate to the backend using <i>/admin</i> and you be asked to login (use the email you specified in the install eg. spree@example.com, and password).  You will see the admin area where you can navigate to Products -> +New Product, where you can add a product name, price, image etc.
+![alt text](https://github.com/markwiggles/MyStore/raw/master/app/assets/images/taxons.png "taxons")
 
 <h3>Adding Routes</h3>
 In `routes.rb`
