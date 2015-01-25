@@ -1,0 +1,2 @@
+# MyStore
+Example Spree Application
